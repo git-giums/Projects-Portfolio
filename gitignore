@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+
+# Local environment / secrets
+.env
+*.local
